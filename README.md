@@ -20,6 +20,7 @@ The app uses **Machine Learning models (Random Forest & Linear Regression)** tra
 
 ## 📂 Project Structure
 fitness-tracker-app/
+
 │── app.py 
 
 │── calories.csv 
