@@ -12,7 +12,7 @@ The app uses **Machine Learning models (Random Forest & Linear Regression)** tra
 - ⚡ **Feature Importance**: Shows which features impact calorie prediction (for Random Forest)  
 - 📈 **Visualizations**:  
   - Calories distribution  
-  - Calories vs BMI scatterplot (with your point highlighted)  
+  - Calories vs BMI scatterplot 
   - Similar results from dataset  
 - 🧑‍💻 **Choose Model**: Random Forest or Linear Regression  
 
