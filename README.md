@@ -20,11 +20,15 @@ The app uses **Machine Learning models (Random Forest & Linear Regression)** tra
 
 ## 📂 Project Structure
 fitness-tracker-app/
-│── app.py # Main Streamlit app
-│── calories.csv # Dataset 1
-│── exercise.csv # Dataset 2
-│── requirements.txt # Dependencies
-│── README.md # Project documentation
+│── app.py 
+
+│── calories.csv 
+
+│── exercise.csv 
+
+│── requirements.txt 
+
+│── README.md 
 
 
 ---
